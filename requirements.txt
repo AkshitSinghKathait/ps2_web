@@ -4,4 +4,3 @@ matplotlib
 jupyter
 fastai
 psycopg2-binary
-math
